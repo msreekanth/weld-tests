@@ -4,8 +4,6 @@
  */
 package com.sun.weld.tests.BasicQualifierTests;
 
-import java.io.Serializable;
-import javax.enterprise.context.SessionScoped;
 
 /**
  *
