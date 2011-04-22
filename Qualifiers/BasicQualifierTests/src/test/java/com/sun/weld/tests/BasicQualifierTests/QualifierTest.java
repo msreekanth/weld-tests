@@ -22,6 +22,7 @@ import org.junit.runner.RunWith;
  * @author sreekanth
  */
 @RunWith(Arquillian.class)
+
 public class QualifierTest {
 
    @Deployment
